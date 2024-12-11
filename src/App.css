@@ -1,0 +1,42 @@
+.card {
+  max-width: 800px;
+  margin: 20px auto;
+  margin-left: 400px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.read {
+  color: green;
+}
+
+.unread {
+  color: red;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+input {
+  margin: 10px 5px;
+  padding: 5px;
+}
+
+div {
+  margin-bottom: 20px;
+}
